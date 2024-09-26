@@ -12,7 +12,7 @@ Demo: https://ej2.syncfusion.com/react/demos/#/material3/diagram/mind-map.html
 ------------------------------------------------------------------------------------------------
 
 ## Project prerequisites
-Make sure that you have the compatible versions of [Visual Studio Code](https://code.visualstudio.com/download ), [React](https://cli.vuejs.org/guide/installation.html), and  [NodeJS](https://nodejs.org/en/download) or a later version on your machine before starting to work on this project.
+Make sure that you have the compatible versions of [Visual Studio Code](https://code.visualstudio.com/download ), and [NodeJS](https://nodejs.org/en/download) or a later version on your machine before starting to work on this project.
 
 -------------------------------------------------------------------------------------------------
 
