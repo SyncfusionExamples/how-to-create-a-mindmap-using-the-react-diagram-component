@@ -1,7 +1,7 @@
 # How to Create A Mind Map Using the React Diagram
-A quick-start React app that shows how to create and customize a mind map layout using the [React Diagram](https://www.syncfusion.com/react-components/react-diagram) component. Also learn how to change the layout spacing, expand and collapse, and change the orientation.
+A quick-start React app that shows how to create and customize a mind map layout using the [React Diagram](https://www.syncfusion.com/diagram-sdk/react-diagram) component. Also learn how to change the layout spacing, expand and collapse, and change the orientation.
 
-The [React Diagram](https://www.syncfusion.com/react-components/react-diagram) is a feature-rich library for visualizing, creating, and editing interactive diagrams. It supports creating flowcharts, organizational charts, mind maps, and BPMN charts through code or a visual interface.
+The [React Diagram](https://www.syncfusion.com/diagram-sdk/react-diagram) is a feature-rich library for visualizing, creating, and editing interactive diagrams. It supports creating flowcharts, organizational charts, mind maps, and BPMN charts through code or a visual interface.
 
 A mind map is a diagram that displays nodes as a spider diagram, organizing information around a central concept. Mind maps organize, enhance learning, aid problem-solving, facilitate communication, and improve decision-making. Use horizontal or vertical orientation to arrange the mind map tree layout. By default, it is set to horizontal. Inject the Mind Map class if you want to use the mind map layout in a diagram.
 
